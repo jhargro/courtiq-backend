@@ -468,7 +468,7 @@ async def root():
         "status": {
             "openai_gpt4v": openai_status,
             "mongodb": mongo_status,
-            "ffmpeg": "✅ Available",
+            "ffmpeg": "❌ Not installed",
             "large_files": "✅ Up to 5GB supported"
         },
         "features": [
