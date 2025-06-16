@@ -1,5 +1,3 @@
-:
-
 FROM python:3.11
 
 # Install system dependencies including ffmpeg
