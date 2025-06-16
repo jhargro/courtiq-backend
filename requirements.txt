@@ -1,2 +1,11 @@
 fastapi==0.110.1
 uvicorn==0.25.0
+python-dotenv>=1.0.1
+motor==3.3.1
+pydantic>=2.6.4
+python-multipart>=0.0.9
+aiofiles==23.2.1
+validators==0.34.0
+openai>=1.0.0
+requests>=2.31.0
+pymongo==4.5.0
